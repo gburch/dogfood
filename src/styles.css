@@ -1,0 +1,10 @@
+body {
+  background-color: var(--tw-dark);
+}
+
+/* define components if needed
+@layer components {
+  .custom-horizontal-range {
+    transform: rotate(270deg);
+  }
+} */
